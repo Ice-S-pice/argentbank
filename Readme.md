@@ -10,11 +10,14 @@ Projet bancaire développé en React + Redux (front) et Node.js + Express + Mong
 ```bash
 git clone https://github.com/ton-repo/argent-bank.git
 cd argent-bank
-tony@stark.com
-password123
-http://localhost:3001/api-docs
-Bearera 
 
+{
+  "email": "tony@stark.com",
+  "password": "password123"
+}
+
+http://localhost:3001/api-docs
+Bearer 
 
 lancer le back 
 npm run dev:server
